@@ -1,0 +1,19 @@
+{
+  "name": "mp3-client",
+  "version": "0.0.0",
+  "description": "mp3-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/smhg/mp3-client.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/smhg/mp3-client/issues"
+  },
+  "homepage": "https://github.com/smhg/mp3-client"
+}
