@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/smhg/mp3-client/issues"
   },
-  "homepage": "https://github.com/smhg/mp3-client"
+  "homepage": "https://github.com/smhg/mp3-client",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "browserify": "~3.4.0",
+    "grunt-browserify": "~1.3.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.7.2"
+  }
 }
